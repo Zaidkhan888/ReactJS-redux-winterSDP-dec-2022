@@ -1,0 +1,13 @@
+.loginContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px olid black;
+}
+
+.loginButton{
+    padding: 5px;
+    background-color: aquamarine;
+    margin: 5px;
+}
